@@ -67,3 +67,21 @@ O Experta usa `collections.Mapping`, removido no Python 3.10. O módulo `career_
 
 ## Autor
 **Nome:** _Gabriel Augusto Bedeschi DOmingos_ · **Professor:** Felipe Roncalli de Paula Carneiro
+
+## Prints 
+
+<img width="1363" height="669" alt="image" src="https://github.com/user-attachments/assets/5c091e44-d575-4254-85a1-b8b88a134b46" />
+<img width="1364" height="624" alt="image" src="https://github.com/user-attachments/assets/5f4cd83a-de7d-4018-8866-9e5b9231f99e" />
+<img width="1363" height="681" alt="image" src="https://github.com/user-attachments/assets/69965a05-ee63-4d38-888e-16faa6a8bce4" />
+<img width="1366" height="641" alt="image" src="https://github.com/user-attachments/assets/77ab0c22-3800-4608-b478-2fe4bddd85cb" />
+<img width="1366" height="644" alt="image" src="https://github.com/user-attachments/assets/8081aab9-0eb8-4e3c-b653-a6c48380111c" />
+<img width="1366" height="636" alt="image" src="https://github.com/user-attachments/assets/0a42766f-e5f1-4459-9275-31750b686df7" />
+<img width="1363" height="632" alt="image" src="https://github.com/user-attachments/assets/541eae32-c7bf-428f-8004-67ed081c5e9c" />
+<img width="1366" height="633" alt="image" src="https://github.com/user-attachments/assets/be4c9f0a-8e22-49f8-9563-52fec33ca4ed" />
+
+
+
+
+
+
+
